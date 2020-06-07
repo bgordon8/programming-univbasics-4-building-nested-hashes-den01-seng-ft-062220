@@ -8,7 +8,7 @@ def base_hash
       }
     }
   }
- 
+ base_hash
 
 end
 
